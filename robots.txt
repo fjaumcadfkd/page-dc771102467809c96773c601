@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-c91868aaa6.baizs.cn/sitemap.xml
